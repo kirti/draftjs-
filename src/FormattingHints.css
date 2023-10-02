@@ -1,0 +1,17 @@
+.formatting-hints {
+    float: right;
+  }
+  .formatting-hints > * {
+    float: left;
+    font-size: 0.7em;
+    height: 20px;
+    line-height: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .formatting-hints blockquote {
+    padding-bottom: 0;
+    padding-left: 10px;
+    padding-top: 0;
+  }
+  
